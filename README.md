@@ -9,7 +9,7 @@ Integrated Knowledge Base: Leverages uploaded documents and web search for conte
 Analytics Dashboard: Tracks user interactions and bot performance.
 
 Resources
-Video Tutorial: Step-by-step guide available on YouTube;(https://www.youtube.com/watch?v=iEtNrxpPE8M).
+Video Tutorial: Step-by-step guide available on YouTube;(https://youtu.be/jGG7_E5COFY).
 Webchat Demo: Try the thesis-writing bot here (https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/11/09/15/20241109155354-OTXS6NAL.json).
 Medium tutorial: Step-by-step guide available on Medium; (https://medium.com/artificial-synapse-media/how-to-create-thesis-writing-ai-agents-using-botpress-a-step-by-step-guide-546a4845cfcc)
 Botpress Discord Community: Join for support and discussions (https://discord.com/invite/botpress).
